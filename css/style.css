@@ -105,7 +105,9 @@ footer {
 コンテンツ
 ======================================================*/
 #header_logo img {
-  display: block;
+  /*display: block;*/
+  width: 500px;
+  height:60px;
 }
 
 #global_menu {
